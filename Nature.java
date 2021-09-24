@@ -18,7 +18,6 @@ public class Nature {
         hawkeye.ascend(30);
         hawkeye.glide();
         hawkeye.descend(140);
-        hawkeye.land();
         hawkeye.descend(9);
         hawkeye.land();
 
